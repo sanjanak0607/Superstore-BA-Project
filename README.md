@@ -6,7 +6,7 @@
 ## Project Overview
 This is an end-to-end business analytics project built on the Sample 
 Superstore dataset from Kaggle. The goal was to go beyond just making 
-charts — to actually analyze the data like a business analyst would, 
+charts to actually analyze the data like a business analyst would, 
 find what the numbers are saying, and turn those findings into 
 actionable recommendations.
 
